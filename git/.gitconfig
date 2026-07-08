@@ -1,0 +1,15 @@
+[user]
+    name = David Ku
+    email = hola@davidku.pro
+
+[core]
+    editor = code --wait
+
+[pull]
+    rebase = false
+
+[push]
+    autoSetupRemote = true
+
+[init]
+    defaultBranch = main
