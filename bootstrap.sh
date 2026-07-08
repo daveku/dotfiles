@@ -12,6 +12,7 @@ sudo apt-get install -y \
     curl \
     wget \
     git \
+    gh \
     unzip \
     zip \
     jq \
